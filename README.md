@@ -139,8 +139,17 @@ _Release Automation & Deployment Orchestration_
 
 **[cicd-pipeline-automation](https://github.com/kiran-yalla/cicd-pipeline-automation)** — A declarative Jenkins pipeline with build, test, deploy, and smoke-test stages, plus shell-script automation for release deployment and automatic rollback on failure.
 
----
+**[aws-cloud-migration-toolkit](https://github.com/kiran-yalla/aws-cloud-migration-toolkit)** — Scripts and Terraform snippets for AWS cloud migration assessment, cost reporting, and tagging compliance.
 
+**[python-server-monitoring-toolkit](https://github.com/kiran-yalla/python-server-monitoring-toolkit)** — Python utilities for server health monitoring, log analysis, and alerting across Linux/Windows environments.
+
+**[pega-integration-utilities](https://github.com/kiran-yalla/pega-integration-utilities)** — Sample Pega Platform integration utilities: REST API automation, BIX export processing, and case data extraction scripts.
+
+**[oracle-sql-server-dba-toolkit](https://github.com/kiran-yalla/oracle-sql-server-dba-toolkit)** — SQL scripts and automation for Oracle & SQL Server database administration: performance tuning, index analysis, and backup/recovery.
+
+**[linux-windows-sysadmin-scripts](https://github.com/kiran-yalla/linux-windows-sysadmin-scripts)** — Cross-platform Bash and PowerShell automation scripts for system administration: patching, log rotation, and user/security administration.
+
+---
 ## 🎓 Certifications
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
