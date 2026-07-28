@@ -66,6 +66,14 @@ I'm **Kiran Kumar Yalla**, a Senior Platform Engineer with **16+ years** of expe
 
 🌎 Based in the United States since 2015, supporting large-scale enterprise and federal technology programs.
 
+🧠 Currently building foundational skills in **AI & Machine Learning**, including core concepts of supervised/unsupervised learning, neural networks, and generative AI, through self-directed learning and hands-on practice.
+
+🤖 Exploring **Large Language Models (LLMs)** and **prompt engineering** fundamentals to apply AI-assisted approaches to automation, monitoring, and platform engineering tasks.
+
+📜 Earned the **DX360°® AI Transformation Certification**, reflecting a growing focus on understanding AI's role in enterprise digital transformation.
+
+🛠️ Practicing with AI developer tools such as ChatGPT and GitHub Copilot to accelerate scripting, documentation, and problem-solving in day-to-day engineering work.
+
 ---
 
 ## 🧰 Tech Stack
@@ -133,6 +141,16 @@ _Release Automation & Deployment Orchestration_
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Red Hat JBoss](https://img.shields.io/badge/Red%20Hat%20JBoss-EC7A08?style=for-the-badge&logo=redhat&logoColor=white)
 
+**AI & Machine Learning (Fundamentals)**
+_Building foundational knowledge in AI/ML concepts, generative AI, and prompt engineering_
+
+![AI/ML Fundamentals](https://img.shields.io/badge/AI%2FML%20Fundamentals-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B8BBE?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
 ## 🚀 Featured Projects
 
 **[aws-terraform-infra-samples](https://github.com/kiran-yalla/aws-terraform-infra-samples)** — Sample Terraform modules provisioning a full AWS network and compute stack: VPC with public/private subnets, a least-privilege IAM role, an EC2 instance, and a versioned S3 bucket.
@@ -149,12 +167,19 @@ _Release Automation & Deployment Orchestration_
 
 **[linux-windows-sysadmin-scripts](https://github.com/kiran-yalla/linux-windows-sysadmin-scripts)** — Cross-platform Bash and PowerShell automation scripts for system administration: patching, log rotation, and user/security administration.
 
+**[ai-fundamentals-notes](https://github.com/kiran-yalla/ai-fundamentals-notes)** — Personal learning notes and exercises covering AI & Machine Learning fundamentals: core concepts, generative AI, and responsible AI basics.
+
+**[genai-prompt-engineering-basics](https://github.com/kiran-yalla/genai-prompt-engineering-basics)** — Beginner-friendly examples of core prompt engineering techniques including zero-shot, few-shot, and chain-of-thought prompting.
+
+**[llm-chatbot-starter](https://github.com/kiran-yalla/llm-chatbot-starter)** — A simple command-line chatbot built on the OpenAI API, demonstrating the basics of integrating LLMs into an application.
+
 ---
 ## 🎓 Certifications
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Pega Certified System Architect (CSA)](https://img.shields.io/badge/Pega%20Certified%20System%20Architect%20(CSA)-CC0000?style=for-the-badge&logo=pega&logoColor=white)
 ![Pega Certified Senior System Architect (CSSA)](https://img.shields.io/badge/Pega%20Certified%20Senior%20System%20Architect%20(CSSA)-CC0000?style=for-the-badge&logo=pega&logoColor=white)
+![DX360°® AI Transformation Certification](https://img.shields.io/badge/DX360%C2%B0%C2%AE%20AI%20Transformation%20Certification-6A5ACD?style=for-the-badge)
 
 ---
 
