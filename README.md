@@ -22,6 +22,52 @@ I'm **Kiran Kumar Yalla**, a Senior Platform Engineer with **16+ years** of expe
        
         - ---
 
+## 📝 Professional Summary
+
+🏆 Senior technology professional with **16+ years** of experience in Database Administration, Application & Server Support, DevOps automation, and AWS modernization and PEGA Platform Architecture across enterprise and federal environments.
+
+🗄️ Hands-on **Oracle 12c** Database Administrator experience including SQL query optimization, performance and index tuning, backup and recovery, replication configuration, and user/role and security administration for mission-critical enterprise applications.
+
+📊 Working experience monitoring and managing **Microsoft SQL Server** environments using DBA Dash, an open-source SQL Server monitoring/management tool, for proactive performance tracking and issue identification.
+
+🎯 Serve as the sole subject matter expert providing both application and database support for USDA's primary Pega-based applications, combining platform administration with hands-on database troubleshooting.
+
+🤝 Proven ability to drive end-to-end solution ownership, partner with Agile delivery teams and business stakeholders, and deliver scalable, highly available systems supporting mission-critical applications.
+
+🗺️ Demonstrated success developing architecture roadmaps, enabling platform governance, leading modernization initiatives, and improving reliability through automation, CI/CD, observability, and cloud-native technologies.
+
+🔄 Strong background supporting enterprise applications across the full SDLC, collaborating with Enterprise Architects, Product Owners, and Engineering teams to deliver business-aligned technical solutions.
+
+🏗️ Extensive experience architecting, installing, upgrading, administering, and supporting **Pega PRPC / Pega Platform** environments from v5.x through Infinity (including 6.x, 7.x, 8.x, and latest Infinity releases) across Dev, Test, Stage, and Production.
+
+🧑‍💼 Experienced Pega Systems Architect / Platform Owner responsible for platform strategy, infrastructure design, environment management, performance optimization, and production stability for enterprise-scale applications.
+
+🔧 Deep expertise in Pega platform architecture and tooling, including AES, PDC, BIX, SMA, deployment management, clustering, load balancing, JVM tuning, SSL/TLS configuration, and enterprise integrations.
+
+⚙️ Proven track record designing and supporting high-availability, fault-tolerant, scalable environments with a strong focus on operational excellence and service reliability.
+
+🚀 Hands-on experience implementing **CI/CD** pipelines and deployment automation using Jenkins, reducing manual deployment effort and improving release speed and consistency.
+
+☁️ Strong involvement in **AWS** cloud modernization, supporting migration of enterprise applications and infrastructure from on premises to AWS.
+
+🌩️ Skilled in supporting AWS-based operations, including infrastructure optimization, cloud adoption, application modernization, and production support.
+
+📈 Contributor to large-scale cloud transformation programs, improving scalability, availability, operational efficiency, and infrastructure agility.
+
+🖥️ Experience supporting **700+ servers** and **80+ enterprise applications**, maintaining high availability and strong performance across production and non-production environments.
+
+🔍 Strong background in performance monitoring, observability, troubleshooting, and incident management using AppDynamics, DBA Dash, Splunk, Kibana, PDC, and enterprise monitoring platforms.
+
+🔐 Experienced in security engineering and implementation including SSL/TLS, PKI certificates, SAML integrations, authentication, and vulnerability remediation.
+
+🤝 Effective collaborator with architects, developers, and cross-functional stakeholders in Agile environments, supporting full application lifecycle management.
+
+💼 Currently with **NetImpact Strategies** (Feb 2023–Present). Previously with **ASRC Federal Vistronix** and **Tech Mahindra**, supporting enterprise and federal environments.
+
+🌎 Based in the United States since 2015, supporting large-scale enterprise and federal technology programs.
+
+---
+
         ## 🧰 Tech Stack
 
         **Pega Platform**
