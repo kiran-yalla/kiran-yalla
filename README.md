@@ -1,10 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kiran-yalla&label=Profile%20Views&color=blueviolet&style=flat)
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Kiran%20Kumar%20Yalla%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Hello,%20I'm%20Kiran%20Yalla%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Senior+Platform+Engineer+%7C+DevOps+Engineer;AWS+Solutions+Architect+%7C+DB+Administration;PEGA+Platform+Architect+%7C+Terraform+%7C+CI%2FCD;Site+Reliability+Engineering+%7C+AI+Platform+Engineering;Cloud+Modernization+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Senior+Platform+Engineer+%7C+DevOps+Engineer;AWS+Solutions+Architect+%7C+DB+Administration;PEGA+Platform+Architect+%7C+Terraform+%7C+CI%2FCD;Site+Reliability+Engineering+%7C+AI+Platform+Engineering;Cloud+Modernization+Specialist)](https://git.io/typing-svg)
 
 </div>
 
@@ -164,5 +164,5 @@ I'm always open to discussing cloud architecture, DevOps practices, platform eng
 
 **Kiran Kumar Yalla** — Senior Platform Engineer | DevOps Engineer | AWS Solutions Architect | Cloud Modernization
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=100&section=footer)
 
