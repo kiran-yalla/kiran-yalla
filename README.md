@@ -24,35 +24,68 @@ I'm **Kiran Kumar Yalla**, a Senior Platform Engineer with **16+ years** of expe
 
         ## 🧰 Tech Stack
 
-        **Platform & Architecture**
+        **Pega Platform**
+        _Pega PRPC / Pega Platform / Infinity — Installation, Configuration, Administration, Upgrades & Patching_
+
+        ![Pega Platform](https://img.shields.io/badge/Pega%20Platform%20%2F%20Infinity-CC0000?style=for-the-badge&logo=pega&logoColor=white)
+        ![Deployment Manager](https://img.shields.io/badge/Deployment%20Manager-CC0000?style=for-the-badge)
+        ![AES](https://img.shields.io/badge/AES-CC0000?style=for-the-badge)
+        ![PDC](https://img.shields.io/badge/PDC-CC0000?style=for-the-badge)
+
+        **Databases**
+        _Query Optimization, Performance/Index Tuning, Backup & Recovery, Replication, User/Role & Security Administration_
+
+        ![Oracle](https://img.shields.io/badge/Oracle%2012c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+        ![SQL Server](https://img.shields.io/badge/SQL%20Server%20(DBA%20Dash)-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+        **Cloud**
+        _Cloud Operations, Application Hosting, Migration & Modernization_
 
         ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-        ![PEGA](https://img.shields.io/badge/PEGA-CC0000?style=for-the-badge&logo=pega&logoColor=white)
+
+        **DevOps / CI-CD & Automation**
+        _Release Automation & Deployment Orchestration_
+
+        ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+        ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+        ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+        ![Nexus](https://img.shields.io/badge/Nexus-1B6AC6?style=for-the-badge&logo=sonatype&logoColor=white)
         ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-        ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+        ![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
+
+        **Monitoring & Observability**
+
+        ![AppDynamics](https://img.shields.io/badge/AppDynamics-1F1F1F?style=for-the-badge)
+        ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+        ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
         **Operating Systems**
 
-        ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-        ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+        ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+        ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-        **DevOps & CI/CD**
+        **Tools & Utilities**
 
-        ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-        ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-        ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-        ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+        ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+        ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+        ![TFS](https://img.shields.io/badge/TFS-5C2D91?style=for-the-badge&logo=azuredevops&logoColor=white)
+        ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge)
+        ![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=for-the-badge)
+        ![WinSCP](https://img.shields.io/badge/WinSCP-2A2A2A?style=for-the-badge)
+        ![WS_FTP](https://img.shields.io/badge/WS__FTP-2A2A2A?style=for-the-badge)
+        ![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-        **Databases**
-
-        ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-        ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-        ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-        **AI & Automation**
+        **Scripting & Programming**
 
         ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-        ![AI](https://img.shields.io/badge/AI%20Platform%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+        ![Shell Script](https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+        **Web/Application Servers**
+
+        ![Apache HTTP Server](https://img.shields.io/badge/Apache%20HTTP%20Server-D22128?style=for-the-badge&logo=apache&logoColor=white)
+        ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+        ![Red Hat JBoss](https://img.shields.io/badge/Red%20Hat%20JBoss-EC7A08?style=for-the-badge&logo=redhat&logoColor=white)
 
         ---
 
@@ -75,15 +108,15 @@ I'm **Kiran Kumar Yalla**, a Senior Platform Engineer with **16+ years** of expe
 
         </div>
 
-        > ℹ️ Note: The GitHub Stats card, Top Languages card, and Trophy widgets are temporarily removed because the public demo services hosting them (github-readme-stats.vercel.app / github-profile-trophy.vercel.app) are currently paused by their maintainers. They'll be added back once those services are available again.
-        >
-        > ---
-        >
-        > ## 🤝 Let's Connect
-        >
-        > I'm always open to discussing cloud architecture, DevOps practices, platform engineering, and emerging AI-driven infrastructure trends. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kiran-kumar-yalla-57a4791b/) — let's build something reliable together.
-        >
-        > **Kiran Kumar Yalla** — Senior Platform Engineer | DevOps Engineer | AWS Solutions Architect | Cloud Modernization
-        >
-        > ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-        > 
+        _Note: The GitHub Stats card, Top Languages card, and Trophy widgets are temporarily removed because the public demo services hosting them (github-readme-stats.vercel.app / github-profile-trophy.vercel.app) are currently paused by their maintainers. They'll be added back once those services are available again._
+
+        ---
+
+        ## 🤝 Let's Connect
+
+        I'm always open to discussing cloud architecture, DevOps practices, platform engineering, and emerging AI-driven infrastructure trends. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kiran-kumar-yalla-57a4791b/) — let's build something reliable together.
+
+        **Kiran Kumar Yalla** — Senior Platform Engineer | DevOps Engineer | AWS Solutions Architect | Cloud Modernization
+
+        ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+        
