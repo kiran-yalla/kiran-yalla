@@ -133,6 +133,14 @@ _Release Automation & Deployment Orchestration_
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Red Hat JBoss](https://img.shields.io/badge/Red%20Hat%20JBoss-EC7A08?style=for-the-badge&logo=redhat&logoColor=white)
 
+## 🚀 Featured Projects
+
+**[aws-terraform-infra-samples](https://github.com/kiran-yalla/aws-terraform-infra-samples)** — Sample Terraform modules provisioning a full AWS network and compute stack: VPC with public/private subnets, a least-privilege IAM role, an EC2 instance, and a versioned S3 bucket.
+
+**[cicd-pipeline-automation](https://github.com/kiran-yalla/cicd-pipeline-automation)** — A declarative Jenkins pipeline with build, test, deploy, and smoke-test stages, plus shell-script automation for release deployment and automatic rollback on failure.
+
+---
+
 ## 🎓 Certifications
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
