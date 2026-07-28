@@ -133,6 +133,12 @@ _Release Automation & Deployment Orchestration_
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Red Hat JBoss](https://img.shields.io/badge/Red%20Hat%20JBoss-EC7A08?style=for-the-badge&logo=redhat&logoColor=white)
 
+## 🎓 Certifications
+
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Pega Certified System Architect (CSA)](https://img.shields.io/badge/Pega%20Certified%20System%20Architect%20(CSA)-CC0000?style=for-the-badge&logo=pega&logoColor=white)
+![Pega Certified Senior System Architect (CSSA)](https://img.shields.io/badge/Pega%20Certified%20Senior%20System%20Architect%20(CSSA)-CC0000?style=for-the-badge&logo=pega&logoColor=white)
+
 ---
 
 ## 🌐 Connect With Me
