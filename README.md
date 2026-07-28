@@ -66,30 +66,24 @@ I'm **Kiran Kumar Yalla**, a Senior Platform Engineer with **16+ years** of expe
 
         <div align="center">
 
-        <img src="https://github-readme-stats.vercel.app/api?username=kiran-yalla&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiran-yalla&theme=tokyonight" width="48%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiran-yalla&theme=tokyonight" width="70%" />
 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-yalla&layout=compact&theme=tokyonight" width="48%" />
+        ![Followers](https://img.shields.io/github/followers/kiran-yalla?label=Followers&style=for-the-badge&color=blue)
+        ![Repos](https://img.shields.io/github/stars/kiran-yalla?label=Stars&style=for-the-badge&color=yellow)
 
-        </div>
-
-        ---
-
-        ## 🏆 GitHub Trophies
-
-        <div align="center">
-
-        <img src="https://github-profile-trophy.vercel.app/?username=kiran-yalla&theme=darkhub&no-frame=true&row=1&column=7" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiran-yalla&theme=tokyo-night&hide_border=true" width="90%" />
 
         </div>
 
-        ---
-
-        ## 🤝 Let's Connect
-
-        I'm always open to discussing cloud architecture, DevOps practices, platform engineering, and emerging AI-driven infrastructure trends. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kiran-kumar-yalla-57a4791b/) — let's build something reliable together.
-
-        **Kiran Kumar Yalla** — Senior Platform Engineer | DevOps Engineer | AWS Solutions Architect | Cloud Modernization
-
-        ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-        
+        > ℹ️ Note: The GitHub Stats card, Top Languages card, and Trophy widgets are temporarily removed because the public demo services hosting them (github-readme-stats.vercel.app / github-profile-trophy.vercel.app) are currently paused by their maintainers. They'll be added back once those services are available again.
+        >
+        > ---
+        >
+        > ## 🤝 Let's Connect
+        >
+        > I'm always open to discussing cloud architecture, DevOps practices, platform engineering, and emerging AI-driven infrastructure trends. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kiran-kumar-yalla-57a4791b/) — let's build something reliable together.
+        >
+        > **Kiran Kumar Yalla** — Senior Platform Engineer | DevOps Engineer | AWS Solutions Architect | Cloud Modernization
+        >
+        > ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+        > 
